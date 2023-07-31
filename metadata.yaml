@@ -1,5 +1,8 @@
 _repo: The-lands-of-silence-b-A-history-of-Arctic-and-Antarctic-exploration_71127
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71127-h/images/cover.jpg
 creator:
   author:
     agent_name: Markham, Clements R. (Clements Robert), Sir
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2962
     wikipedia: https://en.wikipedia.org/wiki/Clements_Markham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71127#The-lands-of-silence-b-A-history-of-Arctic-and-Antarctic-exploration
 gutenberg_issued: '2023-07-05'
 identifiers:
   gutenberg: '71127'
